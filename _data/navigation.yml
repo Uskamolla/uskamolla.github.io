@@ -34,10 +34,10 @@ main:
  # - title: "Guide"
  #   url: /markdown/
 
-   - title: "Contact"
+ - title: "Contact"
     url: /contact/
 
-  - title: "Projects"
+ - title: "Projects"
     url: /portfolio/
     
 
